@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1486117841 source:d:\programming\codeblocks projects\swastika\main.c
+	<stdio.h>
+	<conio.h>
+
+1486117841 source:d:\programming\github repositories\swastika\main.c
+	<stdio.h>
+	<conio.h>
+
