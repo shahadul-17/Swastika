@@ -14,6 +14,11 @@ int main()
 
     printf("\n");
 
+    if (_size % 2 == 0)     // making sure that size is odd number so that the Swastika gets perfect shape...
+    {
+        _size++;
+    }
+
     half_size = _size / 2;
 
     for (i = 0; i < _size; i++)
